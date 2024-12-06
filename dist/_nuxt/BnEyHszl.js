@@ -1,0 +1,26 @@
+import{_,o as p,c as m,a as t,G as u,d as r,b as o,u as c,w as a,t as v}from"./FAf10qur.js";import{_ as y}from"./O1hYcpol.js";const k={},j={class:"absolute top-0 left-0 right-0 z-10"};function C(n,l){return p(),m("header",j,l[0]||(l[0]=[t("div",{class:"container mx-auto px-4 py-6"},[t("div",{class:"flex items-center justify-between"},[t("a",{href:"/",class:"flex items-center"},[t("img",{src:"https://webpros.com/wp-content/uploads/2023/03/Webpros-negative.svg",alt:"WebPros",class:"h-8 w-auto"})])])],-1)]))}const O=_(k,[["render",C]]);/**
+ * @license lucide-vue-next v0.344.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */var i={xmlns:"http://www.w3.org/2000/svg",width:24,height:24,viewBox:"0 0 24 24",fill:"none",stroke:"currentColor","stroke-width":2,"stroke-linecap":"round","stroke-linejoin":"round"};/**
+ * @license lucide-vue-next v0.344.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const I=n=>n.replace(/([a-z0-9])([A-Z])/g,"$1-$2").toLowerCase(),d=(n,l)=>({size:e,strokeWidth:s=2,absoluteStrokeWidth:f,color:b,class:G,...w},{attrs:x,slots:h})=>u("svg",{...i,width:e||i.width,height:e||i.height,stroke:b||i.stroke,"stroke-width":f?Number(s)*24/Number(e):s,...x,class:["lucide",`lucide-${I(n)}`],...w},[...l.map(g=>u(...g)),...h.default?[h.default()]:[]]);/**
+ * @license lucide-vue-next v0.344.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const L=d("FacebookIcon",[["path",{d:"M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z",key:"1jg4f8"}]]);/**
+ * @license lucide-vue-next v0.344.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const N=d("InstagramIcon",[["rect",{width:"20",height:"20",x:"2",y:"2",rx:"5",ry:"5",key:"2e1cvw"}],["path",{d:"M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z",key:"9exkf1"}],["line",{x1:"17.5",x2:"17.51",y1:"6.5",y2:"6.5",key:"r4j83e"}]]);/**
+ * @license lucide-vue-next v0.344.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const $=d("LinkedinIcon",[["path",{d:"M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z",key:"c2jq9f"}],["rect",{width:"4",height:"12",x:"2",y:"9",key:"mk3on5"}],["circle",{cx:"4",cy:"4",r:"2",key:"bt5ra8"}]]),B={class:"bg-purple-950 text-white py-16"},P={class:"container mx-auto px-4"},A={class:"flex flex-col lg:flex-row justify-between items-start mb-12"},F={class:"mb-8 lg:mb-0 max-w-md"},S={class:"flex gap-4"},V={href:"https://linkedin.com/company/webpros",target:"_blank",rel:"noopener noreferrer",class:"w-10 h-10 rounded-full border border-white/20 flex items-center justify-center hover:bg-white/10 transition-colors"},W={href:"https://instagram.com/webpros",target:"_blank",rel:"noopener noreferrer",class:"w-10 h-10 rounded-full border border-white/20 flex items-center justify-center hover:bg-white/10 transition-colors"},z={href:"https://facebook.com/webpros",target:"_blank",rel:"noopener noreferrer",class:"w-10 h-10 rounded-full border border-white/20 flex items-center justify-center hover:bg-white/10 transition-colors"},M={class:"grid grid-cols-2 md:grid-cols-4 gap-8"},D={class:"space-y-2"},R={class:"space-y-2"},Y={class:"space-y-2"},q={class:"pt-8 border-t border-white/10"},E={class:"text-gray-400 text-sm"},T={__name:"Footer",setup(n){return(l,e)=>{const s=y;return p(),m("footer",B,[t("div",P,[t("div",A,[t("div",F,[e[0]||(e[0]=t("img",{src:"https://webpros.com/wp-content/uploads/2023/03/Webpros-negative.svg",alt:"WebPros",class:"h-8 w-auto mb-4"},null,-1)),e[1]||(e[1]=t("p",{class:"text-gray-400 mb-4"},[r(" Cross-platform, multi-functional, omni-channel."),t("br"),r(" Your web enablement ecosystem. ")],-1)),t("div",S,[t("a",V,[o(c($),{class:"w-5 h-5"})]),t("a",W,[o(c(N),{class:"w-5 h-5"})]),t("a",z,[o(c(L),{class:"w-5 h-5"})])])]),t("div",M,[t("div",null,[e[4]||(e[4]=t("h3",{class:"font-semibold mb-4"},"Company",-1)),t("ul",D,[t("li",null,[o(s,{to:"/privacy-policy",class:"text-gray-400 hover:text-white transition-colors"},{default:a(()=>e[2]||(e[2]=[r("Privacy Policy")])),_:1})]),t("li",null,[o(s,{to:"/imprint",class:"text-gray-400 hover:text-white transition-colors"},{default:a(()=>e[3]||(e[3]=[r("Imprint")])),_:1})])])]),t("div",null,[e[7]||(e[7]=t("h3",{class:"font-semibold mb-4"},"Resources",-1)),t("ul",R,[t("li",null,[o(s,{to:"/careers",class:"text-gray-400 hover:text-white transition-colors"},{default:a(()=>e[5]||(e[5]=[r("Careers")])),_:1})]),t("li",null,[o(s,{to:"/offices",class:"text-gray-400 hover:text-white transition-colors"},{default:a(()=>e[6]||(e[6]=[r("Offices")])),_:1})])])]),t("div",null,[e[9]||(e[9]=t("h3",{class:"font-semibold mb-4"},"Support",-1)),t("ul",Y,[t("li",null,[o(s,{to:"/contact",class:"text-gray-400 hover:text-white transition-colors"},{default:a(()=>e[8]||(e[8]=[r("Contact us")])),_:1})])])])])]),t("div",q,[t("p",E," WebPros Investments S.à r.l. · 14, rue Robert Stumper · L-2557 Luxembourg · B241080 © "+v(new Date().getFullYear())+" All rights reserved. ",1)])])])}}};export{O as _,T as a,d as c};
